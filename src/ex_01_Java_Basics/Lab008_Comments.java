@@ -3,7 +3,7 @@ package ex_01_Java_Basics;
 public class Lab008_Comments {
 
     /**
-     * Author - Pramod
+     * Author - Tandrita
      * Course :  ATB11x
      * This is a documentation comment
      * @param args command-line arguments
