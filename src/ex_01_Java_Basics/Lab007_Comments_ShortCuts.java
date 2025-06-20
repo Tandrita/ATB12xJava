@@ -11,6 +11,5 @@ public class Lab007_Comments_ShortCuts {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
-        System.out.println("Hi");
     }
 }

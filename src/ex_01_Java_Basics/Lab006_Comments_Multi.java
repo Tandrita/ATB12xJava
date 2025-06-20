@@ -24,7 +24,7 @@ public class Lab006_Comments_Multi {
     }
 }
 /**
- * Author : Pramod Dutta
+ * Author : Tandrita Dewanjee
  * Course :  ATB12x
  * Learning :  Java
  *

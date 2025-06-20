@@ -4,7 +4,6 @@ public class Lab008_Comments {
 
     /**
      * Author - Tandrita
-     * Course :  ATB11x
      * This is a documentation comment
      * @param args command-line arguments
      * @return void
